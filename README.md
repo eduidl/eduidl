@@ -1,16 +1,30 @@
-### Hi there 👋
+## プログラミング
 
-<!--
-**eduidl/eduidl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 好きな言語
+- Rust
+- Ruby
+  - 言語仕様は結構好きだけど，使いどころがなくて全然書いてない
+  
+#### 仕事で使う言語
+- C++
+- Python
 
-Here are some ideas to get you started:
+#### その他多少書ける言語
+- JavaScript
+- TypeScript
+  - 型遊びはできない
+- CUDA
+  - 言語か？
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## リンク
+
+#### ブログ
+- [Zenn](https://zenn.dev/eduidl)
+- [Qiita](https://qiita.com/eduidl)
+  - 以前使っていたがもう書くことはない
+
+#### 質問系
+- [スタックオーバーフロー](https://ja.stackoverflow.com/users/36544/eduidl)
+  - 一時よくやっていたが飽きた
+- [teratail](teratail.com/users/eduidl)
+  - あんま好きじゃない
