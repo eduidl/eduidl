@@ -26,5 +26,5 @@
 #### 質問系
 - [スタックオーバーフロー](https://ja.stackoverflow.com/users/36544/eduidl)
   - 一時よくやっていたが飽きた
-- [teratail](teratail.com/users/eduidl)
+- [teratail](https://teratail.com/users/eduidl)
   - あんま好きじゃない
