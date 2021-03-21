@@ -16,6 +16,15 @@
 - CUDA
   - 言語か？
 
+#### その他
+
+|key    |value  |
+|:-----:|:-----:|
+|OS     |Ubuntu |
+|browser|Vivaldi|
+|shell  |fish   |
+|editor |VSCode |
+
 ## リンク
 
 #### ブログ
