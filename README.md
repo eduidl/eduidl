@@ -18,12 +18,12 @@
 
 #### その他
 
-|key    |value  |
-|:-----:|:-----:|
-|OS     |Ubuntu |
-|browser|Vivaldi|
-|shell  |fish   |
-|editor |VSCode |
+|key    |value             |
+|:-----:|:----------------:|
+|OS     |Ubuntu            |
+|browser|Vivaldi           |
+|shell  |fish              |
+|editor |VSCode (or neovim)|
 
 ## リンク
 
