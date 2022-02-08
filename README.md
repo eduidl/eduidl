@@ -9,4 +9,3 @@
 
 #### 質問
 - [スタックオーバーフロー](https://ja.stackoverflow.com/users/36544/eduidl)
-- [teratail](https://teratail.com/users/eduidl)
