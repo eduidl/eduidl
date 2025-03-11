@@ -6,6 +6,3 @@
 #### ブログ
 - [Zenn](https://zenn.dev/eduidl)
 - [Qiita](https://qiita.com/eduidl)
-
-#### 質問
-- [スタックオーバーフロー](https://ja.stackoverflow.com/users/36544/eduidl)
